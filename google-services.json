@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "466754724791",
+    "project_id": "projectfirebase-g8",
+    "storage_bucket": "projectfirebase-g8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466754724791:android:d2b762999674b929b0be32",
+        "android_client_info": {
+          "package_name": "com.optic.socialmediagamer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "466754724791-0vmf3isbab9t49e71am4jp115fg7nhkt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8WQjDR61NLLjjAp7w6Bv_dsAsGBUPmFM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "466754724791-0vmf3isbab9t49e71am4jp115fg7nhkt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
